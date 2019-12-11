@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+  padding-top: 20px;
+  margin-top: 0px;
+  
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  
+  
+  
+  padding-top: 40px ;
+  height:150px; 
+  margin-top: 0px;
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+.form{
+
+width: 600px;
+margin: auto;
+
+
+
+}
+
+
+.list{
+
+  width:600px;
+  margin:auto;
+  
+}
+
+
+.text{
+
+
+font-size: 22px;
+text-transform: capitalize;
+
+
+}
+
+.delete{
+
+
+  float:right;
+}
